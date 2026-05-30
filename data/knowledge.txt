@@ -1,0 +1,7 @@
+LangGraph is a framework used for building stateful AI agents.
+
+RAG stands for Retrieval Augmented Generation.
+
+AI agents can use tools to solve tasks.
+
+LangChain provides abstractions for LLM applications.
